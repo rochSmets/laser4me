@@ -1,0 +1,20 @@
+*** phys2nondim.txt : text file for the associated py file ***
+
+                        physical units       dimensionless
+
+density            :        2.0000e+28
+magnetic field     :        8.0000e+02
+
+alfven velocity    :        1.2348e+05
+p+ inertial length :        1.6111e-06
+p+ gyroperiod      :        1.3047e-11
+
+e- temperature     :        2.3200e+06          1.2573e+00
+p+ temperature     :        2.3200e+06          1.2573e+00
+
+length             :        2.0000e-04          1.2414e+02
+velocity           :        1.0000e+04          8.0982e-02
+time               :        1.0000e-09          7.6647e+01
+
+e- beta            :        2.5145e+00          2.5145e+00
+p+ beta            :        2.5145e+00          2.5145e+00
