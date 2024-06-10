@@ -1,0 +1,63 @@
+#
+### ___ LMJ-2019 ___
+#
+# maximum electron density along the laser
+Ne = 2e+28 m-3
+
+# maximum magnetic field in the ribbon
+B  = 600 T
+
+# electron temperature at the outer edge of the ribbon
+Te = 4.64 MK (that is 400 eV)
+
+# extent of the magnetic ribbon
+250 to 750 um
+
+# this gives :
+Alfven velocity is 90 km.s-1
+p+ inertial length is 1.6 um
+p+ gyroperiod is 17.4 ps
+
+# extent of ribbon should be: 150 - 450, which is TOO LARGE
+assuming a factor 2 : 75 - 225, that is axis = 150 and ratio = 0.5
+but i took axis = 140, ratio = 0.7
+
+
+
+# so for heckle :
+A = 79
+Z = 20
+
+Te = 4.5 (e- beta = 8)
+Tp = 4.5 (i+ beta = 0.5)
+
+i+ gyroperiod = 4.0
+i+ thermal v  = 0.2
+i+ larmor rad = 1.0
+
+mesh size : 1.0
+time step : 0.005
+
+
+
+
+#
+### ___ LULI-2017 ___
+#
+# maximum electron density along the laser
+Ne = 4e+27 m-3
+
+# maximum magnetic field in the ribbon
+B  = 500 T
+
+# electron temperature at the outer edge of the ribbon
+Te = 4.64 MK (that is 400 eV)
+
+# extent of the magnetic ribbon
+40 to 200 um
+
+# this gives :
+Alfven velocity is 170 km.s-1
+p+ inertial length is 3.6 um
+p+ gyroperiod is 20.1 ps
+
